@@ -34,7 +34,7 @@
 </a><br>
 
 ### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MasterShad0w/Shadow-Media-Search-Bot)
 
 
 ### Hard Way
