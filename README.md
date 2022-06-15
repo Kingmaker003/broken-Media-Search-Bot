@@ -15,7 +15,7 @@
   </a>
   <br>
   <a href="https://github.com/MasterShad0w/Shadow-Media-Search-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/MasterShad0w/ Shadow-Media-Search-Bot ?style=social">
+    <img src="https://img.shields.io/github/stars/MasterShad0w/Shadow-Media-Search-Bot?style=social">
   </a>
   <a href="https://github.com/MasterShad0w/Shadow-Media-Search-Bot/fork">
     <img src="https://img.shields.io/github/forks/MasterShad0w/Shadow-Media-Search-Bot?label=Fork&style=social">
