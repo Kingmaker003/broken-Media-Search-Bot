@@ -14,11 +14,11 @@
     &nbsp;<img src="https://img.shields.io/badge/Movie%20Addaa-Group-blue?style=plastic&logo=Telegram" width="130" height="18">&nbsp;
   </a>
   <br>
-  <a href="https://github.com/MasterShad0w/Movie-Adda-Storage/stargazers">
-    <img src="https://img.shields.io/github/stars/MasterShad0w/Movie-Adda-Storage?style=social">
+  <a href="https://github.com/MasterShad0w/Shadow-Media-Search-Bot/stargazers">
+    <img src="https://img.shields.io/github/stars/MasterShad0w/ Shadow-Media-Search-Bot ?style=social">
   </a>
-  <a href="https://github.com/MasterShad0w/Movie-Adda-Storage/fork">
-    <img src="https://img.shields.io/github/forks/MasterShad0w/Movie-Adda-Storage?label=Fork&style=social">
+  <a href="https://github.com/MasterShad0w/Shadow-Media-Search-Bot/fork">
+    <img src="https://img.shields.io/github/forks/MasterShad0w/Shadow-Media-Search-Bot?label=Fork&style=social">
   </a>  
 </p>
 
