@@ -114,7 +114,7 @@ Contributions are welcome.
 ## Thanks to [Pyrogram](https://github.com/pyrogram/pyrogram)
 
 ## Support
-[Update Channel](https://t.me/botxupdates) and [Support Group](https://t.me/botxsupport)
+[Movie Group](https://t.me/+9Zhp_GdQVctiNjc1) and [Support Group](https://t.me/ShadowsArena)
 
 ## License
 Code released under [The GNU General Public License](LICENSE).
