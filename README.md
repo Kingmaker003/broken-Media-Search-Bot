@@ -20,6 +20,10 @@
   <a href="https://github.com/MasterShad0w/Shadow-Media-Search-Bot/fork">
     <img src="https://img.shields.io/github/forks/MasterShad0w/Shadow-Media-Search-Bot?label=Fork&style=social">
   </a>  
+  <br>
+  <a href="https://youtube.com/channel/UCqVIzF-2AhO_pY4uo8Rr5Hg">
+    <img src="https://img.shields.io/badge/Subscribe-Shadow%20Arena-%23FA0606?style=for-the-badge&logo=Youtube" width="300">
+  </a>
 </p>
 
 * Index channel or group files for inline search.
