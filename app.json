@@ -14,7 +14,7 @@
       "inline"
     ],
   "website": "https://github.com/MasterShad0w/Shadow-Media-Search-Bot",
-  "repository": "https://github.com/MasterShad0w/Shadow-Media-Search-Bot",
+  "repository": "https://github.com/Kingmaker003/broken-Media-Search-Bot",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token.",
